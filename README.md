@@ -20,6 +20,8 @@ The core is written in C++ 11 with Boost and map/reduce executed by an embedded 
 
 AvanceDB will run on Linux on a humble Raspberry Pi 2 or an enterprise server. Via the magic of [Brew](http://brew.sh/) you can spin up an instance of AvanceDB on OSX too. If you are running Windows you are out of luck, at least for the moment.
 
+Here are videos of a [presentation](https://www.youtube.com/watch?v=Au5a9aoX6Lg) and a [demo](https://www.youtube.com/watch?v=szpYFrm0Udc) showcasing AdvanceDB as of initial release (November 2015).
+
 ## Building
 Check out our [Wiki](https://github.com/RipcordSoftware/AvanceDB/wiki) for information about building AvanceDB on your platform.
 
